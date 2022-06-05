@@ -1,0 +1,4 @@
+__pychache__/
+pytest.ini
+.env
+db.sqlite3
