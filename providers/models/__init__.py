@@ -1,2 +1,2 @@
 from .providers import Provider
-from .service_area import ServiceArea
+from .service_areas import ServiceArea
