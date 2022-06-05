@@ -17,7 +17,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://habyehgeolocation.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['habyehgeolocation.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
