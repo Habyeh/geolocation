@@ -23,7 +23,9 @@ DJANGO_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 ]
-LOCAL_APPS = []
+LOCAL_APPS = [
+    'providers'
+]
 THIRD_PARTY_APPS = [
     # Django Extensions
     'django_extensions',
