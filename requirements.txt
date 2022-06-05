@@ -53,3 +53,4 @@ tomli==2.0.1
 urllib3==1.26.9
 wcwidth==0.1.9
 websocket-client==0.59.0
+whitenoise==6.2.0
